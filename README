@@ -1,0 +1,10 @@
+We estimate the lighting parameter from photograph and initial 3D geomtery.
+we assume that the object is perfact diffuse (Lambertian), this allow us to represent the radiance with
+only the point normal, thus it's possible to use spherical harmonic to estimate the lighting.
+
+/**************************************************************************************************************/
+the second light esimator is based on Oren-nayar at it's simple form where we assume that
+the illumination is based on direct lighting and the source direction is known and it is equal to
+camera view direction. the estimated light here will be one value notice that the roughness will be one value
+*****************************************************************************************************************/
+
