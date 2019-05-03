@@ -9,3 +9,14 @@ camera view direction. the estimated light here will be one value notice that th
 *****************************************************************************************************************/
 Results : https://www.youtube.com/watch?v=n7nWLNQ3ius
 
+PLease refrence this code by this:
+
+@article{saouli2018accurate,
+  title={Accurate, dense and shading-aware multi-view stereo reconstruction using metaheuritic optimization},
+  author={Saouli, Abdelhak and Babahenini, Mohamed Chaouki and Medjram, Sofiane},
+  journal={Multimedia Tools and Applications},
+  pages={1--25},
+  year={2018},
+  publisher={Springer}
+}
+
